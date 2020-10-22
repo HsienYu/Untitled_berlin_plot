@@ -1,0 +1,25 @@
+{
+  "name": "untitled_berlin_plot",
+  "version": "1.0.0",
+  "description": "Untitled_berlin_plot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HsienYu/Untitled_berlin_plot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HsienYu/Untitled_berlin_plot/issues"
+  },
+  "homepage": "https://github.com/HsienYu/Untitled_berlin_plot#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "g-i-s": "^2.1.6",
+    "image-downloader": "^4.0.1",
+    "svgo": "^1.3.2"
+  }
+}
